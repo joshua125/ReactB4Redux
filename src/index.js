@@ -9,7 +9,7 @@ import VideDetail from "./components/video_detail";
 import VideoDetail from './components/video_detail';
 
 
-const API_KEY = "AIzaSyBtmpwP2HcIERZi9QERuubvXnRjJ707NWI";
+const API_KEY = "YOUR YOUTUBE API KEY HERE";
 //our top level component
  /**
   * Downward Data-flow - top level component should be repsonsible for fetching data
